@@ -3,9 +3,9 @@ List the fields used in the resulting files - combined_set.txt and combined_set_
 
 ## ID fields
 
-set_name    - original source - test or train (only applicable to the full set, not aggregate)
-label       - activity label
-subject_id  - test subject
+* set_name    - original source - test or train (only applicable to the full set, not aggregate)
+* label       - activity label
+* subject_id  - test subject
 
 ## Measurement fields
 
