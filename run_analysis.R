@@ -79,6 +79,6 @@ run_analysis <- function(directory = "C:/work/data_science/Course3_GetData/data/
     ## -- Output both data frames into the text files
     write.table(dt_all, "combined_set.txt", row.names = FALSE);
     write.table(dt_all_agg, "combined_set_agg.txt", row.names = FALSE);
-    
+    dt_all_agg;
 }
     
